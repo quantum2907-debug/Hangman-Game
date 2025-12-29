@@ -22,12 +22,6 @@ The game randomly selects a word from a word list, and the player has a limited 
 
 🧠 Beginner-friendly logic, easy to understand and extend
 
-🗂️ Project Structure
-.
- ├── hangman.py              # Main game logic
- ├── words.txt               # Word list file
- ├── hangman_visual.py       # Hangman ASCII visuals
- └── README.md               # Project documentation
 
 🚀 How to Run the Game
 
