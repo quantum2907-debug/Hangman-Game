@@ -25,50 +25,50 @@ The game randomly selects a word from a word list, and the player has a limited 
 
 🚀 How to Run the Game
 
-Make sure you have Python 3 installed
+1.Make sure you have Python 3 installed
 
-Clone this repository
+2.Clone this repository
 
-Run the game using:
+3.Run the game using:
 
-python hangman.py
+4.python hangman.py
 
 🧠 Concepts Used
 
-Python functions
+1.Python functions
 
-Loops and conditionals
+2.Loops and conditionals
 
-Sets and lists
+3.Sets and lists
 
-File handling
+4.File handling
 
-Random module
+5.Random module
 
-String manipulation
+6.String manipulation
 
-Modular programming
+7.Modular programming
 
 🎯 Purpose of the Project
 
-This project was created to:
+1.This project was created to:
 
-Strengthen Python fundamentals
+2.Strengthen Python fundamentals
 
-Understand how real-world games are structured
+3.Understand how real-world games are structured
 
-Practice clean and modular code
+4.Practice clean and modular code
 
-Learn how to manage larger programs across multiple files
+5.Learn how to manage larger programs across multiple files
 
 🔮 Possible Improvements
 
-Difficulty levels (easy / medium / hard)
+1.Difficulty levels (easy / medium / hard)
 
-Full-word guessing option
+2.Full-word guessing option
 
-GUI version (Tkinter or Web)
+3.GUI version (Tkinter or Web)
 
-Timer-based gameplay
+4.Timer-based gameplay
 
-Score tracking
+5.Score tracking
